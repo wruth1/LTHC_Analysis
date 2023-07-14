@@ -1,0 +1,192 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agapiou et~al.(2017)Agapiou, Papaspiliopoulos, Sanz-Alonso, and
+  Stuart]{Aga17}
+S.~Agapiou, O.~Papaspiliopoulos, D.~Sanz-Alonso, and A.~M. Stuart.
+\newblock Importance sampling: Intrinsic dimension and computational cost.
+\newblock \emph{Statistical Science}, 32\penalty0 (3), 2017.
+
+\bibitem[Alimohamadi et~al.(2020)Alimohamadi, Taghdir, and Sepandi]{Ali20}
+Yousef Alimohamadi, Maryam Taghdir, and Mojtaba Sepandi.
+\newblock Estimate of the basic reproduction number for {COVID-19}: A
+  systematic review and meta-analysis.
+\newblock \emph{Journal of Preventative Medicine \& Public Health}, 53\penalty0
+  (3), 2020.
+
+\bibitem[Bezanson et~al.(2017)Bezanson, Edelman, Karpinski, and Shah]{Bez17}
+Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Vial~B. Shah.
+\newblock Julia: a fresh approach to numerical computing.
+\newblock \emph{SIAM Review}, 59\penalty0 (1), 2017.
+
+\bibitem[Booth and Hobert(1999)]{Boo99}
+James~G. Booth and James~P. Hobert.
+\newblock Maximizing generalized linear mixed model likelihoods with an
+  automated monte carlo em algorithm.
+\newblock \emph{Journal of the Royal Statistical Society. Series B (Statistical
+  Methodology)}, 61\penalty0 (1), 1999.
+
+\bibitem[Bugallo et~al.(2017)Bugallo, Elvira, Martino, Luengo, M\'iguez, and
+  Djuri\'c]{Bug17}
+M\'onica~F. Bugallo, V\'ictor Elvira, Luca Martino, David Luengo, Joaqu\'in
+  M\'iguez, and Petar~M. Djuri\'c.
+\newblock Adaptive importance sampling: {T}he past, the present, and the
+  future.
+\newblock \emph{IEEE Signal Processing Magazine}, 34\penalty0 (4), 2017.
+
+\bibitem[Caffo et~al.(2005)Caffo, Jank, and Jones]{Caf05}
+Brian~S. Caffo, Wolfgang Jank, and Galin~L. Jones.
+\newblock Ascent-based {Monte Carlo} expectation-maximization.
+\newblock \emph{Journal of the Royal Statistical Society. Series B (Statistical
+  Methodology)}, 67\penalty0 (2), 2005.
+
+\bibitem[Chan and Ledolter(1995)]{Cha95}
+K.~S. Chan and Johannes Ledolter.
+\newblock {Monte Carlo EM} estimation for time series models involving counts.
+\newblock \emph{Journal of the American Statistical Association}, 90\penalty0
+  (429), 1995.
+
+\bibitem[Chopin and Papaspiliopoulos(2020)]{Cho20}
+Nicolas Chopin and Omiros Papaspiliopoulos.
+\newblock \emph{An Introduction to Sequential {M}onte {C}arlo}.
+\newblock Springer, 2020.
+
+\bibitem[{Citation Needed}()]{need}
+{Citation Needed}.
+
+\bibitem[Dempster et~al.(1977)Dempster, Laird, and Rubin]{Dem77}
+A.~P. Dempster, N.~M. Laird, and D.~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock \emph{Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 39\penalty0 (1), 1977.
+
+\bibitem[Elvira and Martino(2022)]{Elv22}
+V\'ictor Elvira and Luca Martino.
+\newblock Advances in importance sampling, 2022.
+
+\bibitem[Geyer(1994)]{Gey94}
+Charles~J. Geyer.
+\newblock On the convergence of {M}onte {C}arlo maximum likelihood
+  calculations.
+\newblock \emph{Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 56\penalty0 (1), 1994.
+
+\bibitem[Hastie et~al.(2009)Hastie, Tibshirani, and Friedman]{Has09}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock \emph{The Elements of Statistical Learning}.
+\newblock Springer, 2nd edition, 2009.
+
+\bibitem[Ionides(2008)]{Ion08}
+Edward~L. Ionides.
+\newblock Truncated importance sampling.
+\newblock \emph{Journal of Computational and Graphical Statistics}, 17\penalty0
+  (2), 2008.
+
+\bibitem[Irvine et~al.(2023)Irvine, Anderson, and Stockdale]{Irv23}
+Mike Irvine, Sean~C. Anderson, and Jessica~E. Stockdale.
+\newblock cr0eso, 2023.
+\newblock URL \url{https://sempwn.github.io/cr0eso/index.html}.
+
+\bibitem[Klenke(2014)]{Kle14}
+Achim Klenke.
+\newblock \emph{Probability Theory: A Comprehensive Course}.
+\newblock Springer, 2nd edition, 2014.
+
+\bibitem[Kong et~al.(2022)Kong, Duan, Shi, Hong, Chang, and Zhang]{Kon22}
+Lingcai Kong, Mengwei Duan, Jin Shi, Jie Hong, Zhaorui Chang, and Zhijie Zhang.
+\newblock Compartmental structures used in modelling {COVID-19}: a scoping
+  review.
+\newblock \emph{Infectious Diseases of Poverty}, 11\penalty0 (72), 2022.
+
+\bibitem[Liu et~al.(2020)Liu, Gayle, Walder-Smith, and Rockl\"ov]{Liu20}
+Ying Liu, Albert~A. Gayle, Annelies Walder-Smith, and Joacim Rockl\"ov.
+\newblock The reproductive number of {COVID-19} is higher compared to {SARS}
+  coronavirus.
+\newblock \emph{Journal of Travel Medicine}, 27\penalty0 (2), 2020.
+
+\bibitem[Louis(1982)]{Lou82}
+Thomas~A. Louis.
+\newblock Finding the observed information matrix when using the {EM}
+  algorithm.
+\newblock \emph{Journal of the Royal Statistical Society. Series B (Statistical
+  Methodology)}, 44\penalty0 (2), 1982.
+
+\bibitem[Martcheva(2015)]{Mar15}
+Maia Martcheva.
+\newblock \emph{An Introduction to Mathematical Epidemiology}.
+\newblock Springer, 2015.
+
+\bibitem[{McCullagh} and Nelder(1989)]{McC89}
+P.~{McCullagh} and J.~A. Nelder.
+\newblock \emph{Generalized Linear Models}.
+\newblock Chapman \& Hall/CRC, 2nd edition, 1989.
+
+\bibitem[McLachlan and Krishnan(2008)]{McL08}
+Geoffrey~J. McLachlan and Thriyambakam Krishnan.
+\newblock \emph{The {EM} algorithm and extensions}.
+\newblock Wiley, 2nd edition, 2008.
+
+\bibitem[Meng and Rubin(1994)]{Men94}
+Xiao-Li Meng and Donald~B. Rubin.
+\newblock On the global and componentwise rates of convergence of the {EM}
+  algorithm.
+\newblock \emph{Linear Algebra and its Applications}, 199, 1994.
+
+\bibitem[Mogensen and Riseth(2018)]{Mog18}
+Patrick~Kofod Mogensen and Asbj{\o}rn~Nilsen Riseth.
+\newblock Optim: a mathematical optimization package for {J}ulia.
+\newblock \emph{Journal of Open Source Software}, 3\penalty0 (24), 2018.
+
+\bibitem[Nocedal and Wright(2006)]{Noc06}
+Jorge Nocedal and Stephen~J. Wright.
+\newblock \emph{Numerical Optimization}.
+\newblock Springer, 2nd edition, 2006.
+
+\bibitem[Robert and Casella(2004)]{Rob04}
+Christian~P. Robert and George Casella.
+\newblock \emph{Monte Carlo Statistical Methods}.
+\newblock Springer, 2nd edition, 2004.
+
+\bibitem[Stockdale et~al.(2022)Stockdale, Anderson, Edwards, Iyaniwura,
+  Mulberry, Otterstatter, Janjua, Coombs, Colijn, and Irvine]{Sto22}
+Jessica~E. Stockdale, Sean~C. Anderson, Andrew~M. Edwards, Sarafa~A. Iyaniwura,
+  Nicola Mulberry, Michael~C. Otterstatter, Naveed~Z. Janjua, Daniel Coombs,
+  Caroline Colijn, and Michael~A. Irvine.
+\newblock Quantifying transmissibility of {SARS-CoV-2} and impact of
+  intervention within long-term healthcare facilities.
+\newblock \emph{Royal Society Open Science}, 9, 2022.
+
+\bibitem[{van der Vaart}(1998)]{van98}
+A.~W. {van der Vaart}.
+\newblock \emph{Asymptotic Statistics}.
+\newblock Cambridge University Press, 1998.
+
+\bibitem[Vehtari et~al.(2022)Vehtari, Simpson, Gelman, Yao, and Gabry]{Veh22}
+Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, and Jonah Gabry.
+\newblock Pareto smoothed importance sampling, 2022.
+
+\bibitem[Vijh et~al.(2022)Vijh, Ng, Shirmaleki, and Bharmal]{Vij22}
+R.~Vijh, C.~H. Ng, M.~Shirmaleki, and A.~Bharmal.
+\newblock Factors associated with transmission of {COVID-19} in long-term care
+  facility outbreaks.
+\newblock \emph{Journal of Hospital Infection}, 119, 2022.
+
+\bibitem[Wei and Tanner(1990)]{Wei90}
+Greg C.~G. Wei and Martin~A. Tanner.
+\newblock A {M}onte {C}arlo implementation of the {EM} algorithm and the poor
+  man's data augmentation algorithms.
+\newblock \emph{Journal of the American Statistical Association}, 85\penalty0
+  (411), 1990.
+
+\bibitem[White(2020)]{Whi20}
+Laura~F. White.
+\newblock Key parameters in infectious disease epidemiology.
+\newblock In Leonard Held, Niel Hens, Philip {O'N}eill, and Jacco Wallinga,
+  editors, \emph{Handbook of Infectious Disease Data Analysis}. Chapman \&
+  Hall/CRC, 2020.
+
+\end{thebibliography}
